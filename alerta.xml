@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>https://assets.mixkit.co/active_storage/sfx/2869/2869-preview.mp3</Play>
+    <Say language="es-ES" voice="alice">Alerta de intrusion detectada en su domicilio. Por favor verifique el sistema de seguridad.</Say>
+</Response>
