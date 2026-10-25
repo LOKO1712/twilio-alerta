@@ -1,6 +1,6 @@
 {
   "activo": true,
-  "descripcion": "CONFIGURACION REMOTA del Sistema de Seguridad ESP32. Edita este archivo y el ESP32 lo toma en menos de 30 segundos, sin reflashear. Para APAGAR TODO de inmediato pon activo en false. Los tokens (bot de Telegram y credenciales de Twilio) NO estan aqui: viven en un gist secreto y solo se cambian de forma excepcional.",
+  "descripcion": "PRUEBA-INSTANTE-DEL-RAW de Seguridad ESP32. Edita este archivo y el ESP32 lo toma en menos de 30 segundos, sin reflashear. Para APAGAR TODO de inmediato pon activo en false. Los tokens (bot de Telegram y credenciales de Twilio) NO estan aqui: viven en un gist secreto y solo se cambian de forma excepcional.",
   "telegram": {
     "chat_id": "5096971541"
   },
