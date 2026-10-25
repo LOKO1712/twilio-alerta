@@ -8,7 +8,7 @@
                  },
     "twilio":  {
                    "from":  "+17372212163",
-                   "to":  "+573132776328",
+                   "to":  "+573215568435",
                    "twiml_url":  "https://twiliopruebaa.netlify.app/alerta.xml",
                    "sid_1":  "AC2485379dd3de850",
                    "sid_2":  "96dac6c4f667047ac",
