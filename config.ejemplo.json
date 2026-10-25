@@ -1,5 +1,5 @@
 {
-  "activo": true,
+  "activo": false,
   "descripcion": "EJEMPLO de la configuracion remota del Sistema de Seguridad ESP32. La configuracion REAL (con tokens) esta en el gist secreto: https://gist.github.com/LOKO1712/35312f811f560ab9db09cfd50963e47b",
   "telegram": {
     "bot_token": "PEGA_AQUI_EL_BOT_TOKEN",
