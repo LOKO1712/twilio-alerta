@@ -1,21 +1,14 @@
 {
-    "revision": "r195345",
+    "revision":  "r195345",
     "activo":  true,
-    "descripcion":  "CONFIGURACION REMOTA del Sistema de Seguridad ESP32. Edita este archivo y el ESP32 lo toma al arrancar y cada 30 segundos, sin reflashear. Para APAGAR TODO de inmediato pon activo en false. Las credenciales van partidas en dos mitades (sid_1+sid_2, token_1+token_2, bot_token_1+bot_token_2) porque GitHub bloquea el valor completo en el repositorio; para cambiarlas edita las DOS mitades.",
+    "descripcion":  "CONFIGURACION REMOTA del Sistema de Seguridad ESP32. Edita este archivo y el ESP32 lo toma al arrancar y cada 30 segundos, sin reflashear. Para APAGAR TODO de inmediato pon activo en false. AQUI NO HAY SECRETOS: el token del bot y las credenciales de Twilio viven en un gist privado.",
     "telegram":  {
-        "bot_token": "9084035482:AAG2afeq6Vf6-Bb4muBAOI61mqoF7GBPrb4",
-                     "chat_id":  "8724076601",
-                     "bot_token_1":  "9084035482:AAG2afeq6Vf6",
-                     "bot_token_2":  "-Bb4muBAOI61mqoF7GBPrb4"
+                     "chat_id":  "8724076601"
                  },
     "twilio":  {
                    "from":  "+17372508034",
                    "to":  "+573215568435",
-                   "twiml_url":  "https://twiliopruebaa.netlify.app/alerta.xml",
-                   "sid_1":  "AC2485379dd3de850",
-                   "sid_2":  "96dac6c4f667047ac",
-                   "token_1":  "e6f2cd238445f3bf",
-                   "token_2":  "f26c345cf94322ac"
+                   "twiml_url":  "https://twiliopruebaa.netlify.app/alerta.xml"
                },
     "mensajes":  {
                      "alerta":  "ALERTA DE SEGURIDAD\n--------------------------------\nMovimiento detectado en la zona protegida.\nSirena local: Activada.\nRealizando llamada telefonica de emergencia...",
