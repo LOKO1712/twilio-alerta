@@ -4,8 +4,8 @@
     "descripcion":  "CONFIGURACION REMOTA del Sistema de Seguridad ESP32. Edita este archivo y el ESP32 lo toma al arrancar y cada 30 segundos, sin reflashear. Para APAGAR TODO de inmediato pon activo en false. Las credenciales van partidas en dos mitades (sid_1+sid_2, token_1+token_2, bot_token_1+bot_token_2) porque GitHub bloquea el valor completo en el repositorio; para cambiarlas edita las DOS mitades.",
     "telegram":  {
                      "chat_id":  "5096971541",
-                     "bot_token_1":  "8947300618:AAFDFZ4iMPxw",
-                     "bot_token_2":  "P0HEmvxOYmGQPWudhiypLm8"
+                     "bot_token_1":  "9084035482:AAG2afeq6Vf6",
+                     "bot_token_2":  "-Bb4muBAOI61mqoF7GBPrb4"
                  },
     "twilio":  {
                    "from":  "+17372508034",
